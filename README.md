@@ -36,3 +36,4 @@ Open Your Web Browser
 Put/type inside the web browser : “localhost/project folder/Admin”
 Admin User : admin
 Admin Password : admin
+![Screenshot (690)](https://user-images.githubusercontent.com/62458493/112156424-3ca6e980-8c0c-11eb-948e-25a5f9035ec3.png)
